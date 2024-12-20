@@ -11,7 +11,7 @@ int main() {
 
   for (int i = 1; i <=b; i++)
   {
-    pow = pow * a;
+    pow = pow * b;
   }
 
   
